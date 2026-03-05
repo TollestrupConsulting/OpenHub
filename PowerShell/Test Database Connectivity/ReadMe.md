@@ -5,7 +5,7 @@ Often it is needed to test a connection to a SQL Server database. This small Pow
 The TestDatabaseConnectivity.ps1 script file contains the PowerShell function Test-SQLConnection.
 
 Usage:
-```
+```powershell
 Test-SQLConnection "Data Source=localhost;database=myDB;User ID=myUser;Password=myPassword;"
 ```
 
