@@ -1,3 +1,8 @@
+# Kill running jobs
+
+UNDER CONSTRUCTION:
+This script isn't ready for usage yet, but will be soon ...
+
 # Q:
 
 I'm testing a long running job and want to stop it after it has been running for, say, 2 hours. How can I do this automatically, i.e. without being around to manually stop it?
