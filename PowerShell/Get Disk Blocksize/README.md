@@ -5,3 +5,6 @@ To get blocksize on all disks on a windows device, following PowerShell command 
 ```powershell
 Get-CimInstance -ClassName Win32_Volume | Select-Object Label, DriveLetter, BlockSize | Format-Table -AutoSize
 ```
+
+An example of the blocksize command:
+![](./images/blocksize.png)
